@@ -2,15 +2,12 @@
 A tribute page to tribute `Bangabandhu Sheikh Mujibur Rahman`
 
 ## Project Thumbnail 
+
 <a href="https://codepen.io/78526Nasir/full/dzOEPZ/" target="_blank"> 
   <img src="https://github.com/78526Nasir/Tribute-Page/blob/master/images/showcase.png" alt="A tribute to Bangabandhu Sheikh Mujibur Rahman"/>
 </a>
 
-
-
-
-## Test
-![showcase](https://github.com/78526Nasir/Tribute-Page/blob/master/images/showcase.png)
+### LICENSE & CopyRight 
 
 **This project is under <a href="https://github.com/78526Nasir/Tribute-Page/blob/master/LICENSE.md" target="_blank">MIT</a> LICENSE.**
 
